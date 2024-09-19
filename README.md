@@ -108,7 +108,7 @@ Description: Checks if the API is running.
 
 | Swagger Response                             | Postman Response                              |
 |----------------------------------------------|-----------------------------------------------|
-| ![image](https://github.com/user-attachments/assets/3df75372-f1ed-4be6-9eea-7c4c649e4736) | ![image](https://github.com/user-attachments/assets/85ff06a1-b297-4dd6-a277-85115d53e9c5) |
+| ![image](https://github.com/user-attachments/assets/86b97068-a7cb-4b9e-bb34-b537c7b76ac7) | ![image](https://github.com/user-attachments/assets/0a1169d5-2360-400d-b515-32b7e3fe1081) |
 
 
 **Daily News Summary**
@@ -136,11 +136,13 @@ Request Body:
 
   ```bash
   {
-    "language": "en"  // Specify the language code, e.g., 'en' for English, 'fr' for French
+    "language": "tr"  // Specify the language code, e.g., 'en' for English, 'fr' for French
   }
   ```
 
-Swagger Request and Response Screenshot:
+| Swagger Response                             | Postman Response                              |
+|----------------------------------------------|-----------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/c2be5468-1726-411f-b2ab-aac219195d1d) | ![image](https://github.com/user-attachments/assets/85ff06a1-b297-4dd6-a277-85115d53e9c5) |
 
 
 **Monthly News Summary**
@@ -155,7 +157,9 @@ Request Body:
   }
   ```
 
-Swagger Request and Response Screenshot:
+| Swagger Response                             | Postman Response                              |
+|----------------------------------------------|-----------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/fa19dca9-fdbd-4280-8cce-23fa0d5752af) | ![image](https://github.com/user-attachments/assets/c2d9e3f8-efc7-4892-83ca-b01335481f48) |
 
 
 ## Caching
