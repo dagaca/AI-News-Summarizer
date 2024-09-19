@@ -42,11 +42,8 @@
 		},
 		{
 			"name": "daily_news_summary",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
 				"body": {
 					"mode": "raw",
@@ -76,15 +73,12 @@
 		},
 		{
 			"name": "weekly_news_summary",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"language\": \"en\"\r\n}\r\n",
+					"raw": "{\r\n  \"language\": \"de\"\r\n}\r\n",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -110,15 +104,12 @@
 		},
 		{
 			"name": "monthly_news_summary",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"language\": \"en\"\r\n}\r\n",
+					"raw": "{\r\n  \"language\": \"tr\"\r\n}\r\n",
 					"options": {
 						"raw": {
 							"language": "json"
