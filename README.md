@@ -136,13 +136,13 @@ Request Body:
 
   ```bash
   {
-    "language": "tr"  // Specify the language code, e.g., 'en' for English, 'fr' for French
+    "language": "de"  // Specify the language code, e.g., 'en' for English, 'fr' for French
   }
   ```
 
 | Swagger Response                             | Postman Response                              |
 |----------------------------------------------|-----------------------------------------------|
-| ![image](https://github.com/user-attachments/assets/c2be5468-1726-411f-b2ab-aac219195d1d) | ![image](https://github.com/user-attachments/assets/85ff06a1-b297-4dd6-a277-85115d53e9c5) |
+| ![image](https://github.com/user-attachments/assets/dc7ea475-5fb8-476c-a127-38c86c725fcb) | ![image](https://github.com/user-attachments/assets/b636f852-7b47-4017-8082-86eed23076c1) |
 
 
 **Monthly News Summary**
@@ -153,7 +153,7 @@ Request Body:
 
   ```bash
   {
-    "language": "en"  // Specify the language code, e.g., 'en' for English, 'fr' for French
+    "language": "tr"  // Specify the language code, e.g., 'en' for English, 'fr' for French
   }
   ```
 
