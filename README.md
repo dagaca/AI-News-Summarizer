@@ -177,15 +177,20 @@ Example of caching usage in routes:
 The API handles errors gracefully and provides clear messages:
 
 **400 Bad Request:** Returned when input data is missing or invalid.
+
 **500 Internal Server Error:** Returned when an unexpected error occurs during processing.
 
 
 ## Technologies Used
-Flask: Web framework used for creating the API.
-Flask-Caching: For caching API responses to enhance performance.
-Hugging Face API: Used for generating AI summaries of news articles.
-NewsAPI: Source of AI-related news articles.
-Postman: Optional tool for testing and interacting with the API.
+**Flask:** Web framework used for creating the API.
+
+**Flask-Caching:** For caching API responses to enhance performance.
+
+**Hugging Face API:** Used for generating AI summaries of news articles.
+
+**NewsAPI:** Source of AI-related news articles.
+
+**Postman:** Optional tool for testing and interacting with the API.
 
 
 ## License
