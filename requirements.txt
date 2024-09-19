@@ -1,0 +1,7 @@
+Flask==2.2.5
+Werkzeug==2.2.3
+huggingface_hub==0.24.6
+flasgger==0.9.7.1
+python-dotenv==0.21.0
+requests==2.32.2
+flask_caching==2.3.0

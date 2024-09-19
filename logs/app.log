@@ -1,0 +1,5 @@
+2024-09-19 19:58:24,450 - app - INFO - Request URL: http://127.0.0.1:5000/health
+2024-09-19 19:58:24,451 - app - INFO - Request Method: GET
+2024-09-19 19:58:24,455 - app - INFO - Request Data: b''
+2024-09-19 19:58:24,457 - app - INFO - Health check endpoint called.
+2024-09-19 19:58:24,459 - app - INFO - Response Status: 200 OK
