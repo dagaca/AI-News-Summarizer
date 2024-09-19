@@ -121,7 +121,9 @@ Request Body:
   }
   ```
 
-Swagger Request and Response Screenshot:
+| Swagger Response                             | Postman Response                              |
+|----------------------------------------------|-----------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/3df75372-f1ed-4be6-9eea-7c4c649e4736) | ![image](https://github.com/user-attachments/assets/85ff06a1-b297-4dd6-a277-85115d53e9c5) |
 
 
 **Weekly News Summary**
