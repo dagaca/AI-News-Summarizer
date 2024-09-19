@@ -58,8 +58,8 @@ Follow these instructions to set up and run the API on your local machine.
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <https://github.com/dagaca/AI-News-Summarizer>
+   cd <AI-News-Summarizer>
    ```
    
 2. **Create and activate a virtual environment:**
